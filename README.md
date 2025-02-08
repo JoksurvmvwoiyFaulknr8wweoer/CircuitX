@@ -1,3 +1,4 @@
 # CircuitXCircuitXIntroduction
 CircuitObjectives
 SetupGuide
+CircuitFeatures
