@@ -3,3 +3,4 @@ CircuitObjectives
 SetupGuide
 CircuitFeatures
 DependenciesList
+CodeExamples
