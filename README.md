@@ -4,3 +4,4 @@ SetupGuide
 CircuitFeatures
 DependenciesList
 CodeExamples
+ConfigurationSettings
