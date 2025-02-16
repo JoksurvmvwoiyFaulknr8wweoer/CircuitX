@@ -5,3 +5,4 @@ CircuitFeatures
 DependenciesList
 CodeExamples
 ConfigurationSettings
+ContributionGuide
