@@ -11,3 +11,4 @@ LicenseDetails
 CircuitFAQ
 Changelog
 TestingInstructions
+CircuitPerformance
