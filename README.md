@@ -12,3 +12,4 @@ CircuitFAQ
 Changelog
 TestingInstructions
 CircuitPerformance
+CommunityResources
